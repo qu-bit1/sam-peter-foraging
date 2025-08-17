@@ -1,0 +1,26 @@
+{
+    "id": "008FC48A",
+    "path": "~/Documents/Papers/Foraging/iScience_submssion/submission3/code_package/code_analysis/Fig2/Fig2B.R",
+    "project_path": "Fig2B.R",
+    "type": "r_source",
+    "hash": "1091826455",
+    "contents": "",
+    "dirty": false,
+    "created": 1628060911059.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "60,0",
+        "scrollLine": "43"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1628060937,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1628060937153,
+    "read_only": false,
+    "read_only_alternatives": []
+}
